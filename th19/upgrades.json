@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-16",
- "source": "Judo Sloth TH19 Sneak Peek 1 & 2 (dev build, pre-Gold Pass) + Supercell Clash of Titans release notes (Nov 16)",
+ "source": "Judo Sloth TH19 Sneak Peek 1, 2 & Squads videos (dev build, pre-Gold Pass) + Supercell Clash of Titans release notes (Nov 16)",
  "categories": [
   "Town Hall",
   "Defense",
@@ -333,12 +333,12 @@
    "name": "Squad Barracks",
    "level": 12,
    "copies": 1,
-   "resource": null,
-   "cost": null,
-   "days": null,
+   "resource": "Elixir",
+   "cost": 32000000,
+   "days": 16,
    "boost": "Builder",
    "category": "Army",
-   "note": "Official release notes: max level 12 at TH19 (+1, unlocks the Baby Dragon squad); cost/time not published",
+   "note": "Judo Sloth Squads video; max level 12 at TH19 (unlocks the Baby Dragon squad)",
    "id": "squad-barracks-12"
   },
   {
@@ -350,7 +350,7 @@
    "days": null,
    "boost": "None",
    "category": "Army",
-   "note": "Official release notes: 12 squads, each upgrades to Squad Level 2 (adds its ability) and 3 at TH19 (24 levels); costs/times not published",
+   "note": "12 squads, each upgrades to Squad Level 2 and 3 at TH19 in the Lab (24 levels). Only price shown so far: Barch Squad level 2 = 32.5M Elixir, 15d 12h (Judo Sloth Squads video)",
    "id": "squads-tba"
   },
   {
