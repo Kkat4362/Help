@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-17",
- "source": "Judo Sloth TH19 Sneak Peek 1, 2 & Squads videos (dev build, pre-Gold Pass) + Supercell Clash of Titans release notes + ClashRecord TH19 counts and hero totals + ClashClock game-file squad and Smasher totals (Nov 17)",
+ "source": "Judo Sloth TH19 sneak peeks + Supercell Clash of Titans release notes + ClashRecord TH19 counts + ClashClock game-file totals + ClashPerk wiki live levels (Smasher 6-10, Barbarian King 111-115) (Nov 17)",
  "categories": [
   "Town Hall",
   "Defense",
@@ -562,11 +562,11 @@
    "level": 6,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 25000000,
-   "days": null,
+   "cost": 24000000,
+   "days": 12,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
+   "note": "Live game data (ClashPerk wiki); levels 6-10 add up to ClashClock's game-file total of 199.5M Elixir / 97 days for levels 1-10",
    "id": "smasher-6"
   },
   {
@@ -574,11 +574,11 @@
    "level": 7,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 26000000,
-   "days": null,
+   "cost": 25000000,
+   "days": 12.5,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
+   "note": "Live game data (ClashPerk wiki); levels 6-10 add up to ClashClock's game-file total of 199.5M Elixir / 97 days for levels 1-10",
    "id": "smasher-7"
   },
   {
@@ -586,11 +586,11 @@
    "level": 8,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 27000000,
-   "days": null,
+   "cost": 26000000,
+   "days": 13,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
+   "note": "Live game data (ClashPerk wiki); levels 6-10 add up to ClashClock's game-file total of 199.5M Elixir / 97 days for levels 1-10",
    "id": "smasher-8"
   },
   {
@@ -598,11 +598,11 @@
    "level": 9,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 28000000,
-   "days": null,
+   "cost": 27000000,
+   "days": 13.5,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
+   "note": "Live game data (ClashPerk wiki); levels 6-10 add up to ClashClock's game-file total of 199.5M Elixir / 97 days for levels 1-10",
    "id": "smasher-9"
   },
   {
@@ -610,11 +610,11 @@
    "level": 10,
    "copies": 1,
    "resource": "Elixir",
-   "cost": null,
-   "days": null,
+   "cost": 28000000,
+   "days": 14,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
+   "note": "Live game data (ClashPerk wiki); levels 6-10 add up to ClashClock's game-file total of 199.5M Elixir / 97 days for levels 1-10",
    "id": "smasher-10"
   },
   {
@@ -1142,7 +1142,7 @@
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Judo Sloth Sneak Peek 1",
+   "note": "Live game data (ClashPerk wiki); matches Judo Sloth's sneak peek",
    "id": "barbarian-king-111"
   },
   {
@@ -1150,11 +1150,11 @@
    "level": 112,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 505000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "barbarian-king-112"
   },
   {
@@ -1162,11 +1162,11 @@
    "level": 113,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 510000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "barbarian-king-113"
   },
   {
@@ -1174,11 +1174,11 @@
    "level": 114,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 515000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "barbarian-king-114"
   },
   {
@@ -1186,11 +1186,11 @@
    "level": 115,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 520000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "barbarian-king-115"
   },
   {
