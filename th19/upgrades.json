@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-17",
- "source": "Judo Sloth TH19 sneak peeks + Supercell Clash of Titans release notes + ClashRecord TH19 counts + ClashClock game-file totals + ClashPerk wiki live levels (Smasher 6-10, Barbarian King 111-115) (Nov 17)",
+ "source": "Judo Sloth TH19 sneak peeks + Supercell Clash of Titans release notes + ClashRecord TH19 counts + ClashClock game-file totals + ClashPerk wiki live levels (all heroes, Smasher 6-10) (Nov 17)",
  "categories": [
   "Town Hall",
   "Defense",
@@ -1198,11 +1198,11 @@
    "level": 111,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 520000,
+   "cost": 500000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.6M DE and 40 days, so ~520,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "archer-queen-111"
   },
   {
@@ -1210,11 +1210,11 @@
    "level": 112,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 520000,
+   "cost": 505000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.6M DE and 40 days, so ~520,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "archer-queen-112"
   },
   {
@@ -1222,11 +1222,11 @@
    "level": 113,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 520000,
+   "cost": 510000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.6M DE and 40 days, so ~520,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "archer-queen-113"
   },
   {
@@ -1234,11 +1234,11 @@
    "level": 114,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 520000,
+   "cost": 515000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.6M DE and 40 days, so ~520,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "archer-queen-114"
   },
   {
@@ -1250,7 +1250,7 @@
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.6M DE and 40 days, so ~520,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "archer-queen-115"
   },
   {
@@ -1262,7 +1262,7 @@
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "minion-prince-96"
   },
   {
@@ -1270,11 +1270,11 @@
    "level": 97,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 505000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "minion-prince-97"
   },
   {
@@ -1282,11 +1282,11 @@
    "level": 98,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 510000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "minion-prince-98"
   },
   {
@@ -1294,11 +1294,11 @@
    "level": 99,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 515000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "minion-prince-99"
   },
   {
@@ -1306,11 +1306,11 @@
    "level": 100,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 520000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "minion-prince-100"
   },
   {
@@ -1318,11 +1318,11 @@
    "level": 86,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 31400000,
+   "cost": 31000000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 157M Elixir and 40 days, so ~31,400,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "grand-warden-86"
   },
   {
@@ -1330,11 +1330,11 @@
    "level": 87,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 31400000,
+   "cost": 31250000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 157M Elixir and 40 days, so ~31,400,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "grand-warden-87"
   },
   {
@@ -1342,11 +1342,11 @@
    "level": 88,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 31400000,
+   "cost": 31500000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 157M Elixir and 40 days, so ~31,400,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "grand-warden-88"
   },
   {
@@ -1354,11 +1354,11 @@
    "level": 89,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 31400000,
+   "cost": 31750000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 157M Elixir and 40 days, so ~31,400,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "grand-warden-89"
   },
   {
@@ -1366,11 +1366,11 @@
    "level": 90,
    "copies": 1,
    "resource": "Elixir",
-   "cost": 31400000,
+   "cost": 32000000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 157M Elixir and 40 days, so ~31,400,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "grand-warden-90"
   },
   {
@@ -1382,7 +1382,7 @@
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "royal-champion-56"
   },
   {
@@ -1390,11 +1390,11 @@
    "level": 57,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 505000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "royal-champion-57"
   },
   {
@@ -1402,11 +1402,11 @@
    "level": 58,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 510000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "royal-champion-58"
   },
   {
@@ -1414,11 +1414,11 @@
    "level": 59,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 515000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "royal-champion-59"
   },
   {
@@ -1426,11 +1426,11 @@
    "level": 60,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 520000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "royal-champion-60"
   },
   {
@@ -1442,7 +1442,7 @@
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "dragon-duke-26"
   },
   {
@@ -1450,11 +1450,11 @@
    "level": 27,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 505000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "dragon-duke-27"
   },
   {
@@ -1462,11 +1462,11 @@
    "level": 28,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 510000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "dragon-duke-28"
   },
   {
@@ -1474,11 +1474,11 @@
    "level": 29,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 515000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "dragon-duke-29"
   },
   {
@@ -1486,11 +1486,11 @@
    "level": 30,
    "copies": 1,
    "resource": "Dark Elixir",
-   "cost": 500000,
+   "cost": 520000,
    "days": 8,
    "boost": "Builder",
    "category": "Hero",
-   "note": "Estimate: ClashRecord's TH19 totals put this hero's 5 new levels at about 2.5M DE and 40 days, so ~500,000 and 8d each. Exact per-level price not published yet",
+   "note": "Live game data (ClashPerk wiki)",
    "id": "dragon-duke-30"
   },
   {
