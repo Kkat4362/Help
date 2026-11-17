@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-16",
- "source": "Judo Sloth TH19 Sneak Peek 1, 2 & Squads videos (dev build, pre-Gold Pass) + Supercell Clash of Titans release notes + ClashRecord TH19 counts and hero totals (Nov 16)",
+ "updated": "2026-11-17",
+ "source": "Judo Sloth TH19 Sneak Peek 1, 2 & Squads videos (dev build, pre-Gold Pass) + Supercell Clash of Titans release notes + ClashRecord TH19 counts and hero totals + ClashClock game-file squad and Smasher totals (Nov 17)",
  "categories": [
   "Town Hall",
   "Defense",
@@ -566,7 +566,7 @@
    "days": null,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Judo Sloth Sneak Peek 1; Guardian, time not shown",
+   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
    "id": "smasher-6"
   },
   {
@@ -578,7 +578,7 @@
    "days": null,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Judo Sloth Sneak Peek 1; Guardian, time not shown",
+   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
    "id": "smasher-7"
   },
   {
@@ -590,7 +590,7 @@
    "days": null,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Judo Sloth Sneak Peek 1; Guardian, time not shown",
+   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
    "id": "smasher-8"
   },
   {
@@ -602,7 +602,7 @@
    "days": null,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Judo Sloth Sneak Peek 1; Guardian, time not shown",
+   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
    "id": "smasher-9"
   },
   {
@@ -614,7 +614,7 @@
    "days": null,
    "boost": "Builder",
    "category": "Guardian",
-   "note": "Guardian; level 10 cost not shown in video",
+   "note": "Smasher: ClashClock's game-file data puts levels 1 to 10 at 199.5M Elixir and 97 days in total. The per-level prices from the sneak peek don't add up to that, so they likely changed at launch; exact per-level prices and times aren't published yet",
    "id": "smasher-10"
   },
   {
@@ -690,16 +690,148 @@
    "id": "squad-barracks-12"
   },
   {
-   "name": "Squads",
-   "level": "TBA",
+   "name": "Barch Squad",
+   "level": "2-3",
    "copies": 1,
-   "resource": null,
-   "cost": null,
-   "days": null,
-   "boost": "None",
-   "category": "Army",
-   "note": "12 squads, each upgrades to Squad Level 2 and 3 at TH19 in the Lab (24 levels). Only price shown so far: Barch Squad level 2 = 32.5M Elixir, 15d 12h (Judo Sloth Squads video)",
-   "id": "squads-tba"
+   "resource": "Elixir",
+   "cost": 56000000,
+   "days": 26.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet. Judo Sloth's video showed level 2 alone at 32.5M Elixir, 15d 12h",
+   "id": "barch-squad-2-3"
+  },
+  {
+   "name": "Giant Wizard Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 57500000,
+   "days": 28,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "giant-wizard-squad-2-3"
+  },
+  {
+   "name": "Wall Breaker Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 53500000,
+   "days": 24.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "wall-breaker-squad-2-3"
+  },
+  {
+   "name": "Minion Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Dark Elixir",
+   "cost": 835000,
+   "days": 25.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "minion-squad-2-3"
+  },
+  {
+   "name": "Balloon Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 60500000,
+   "days": 29,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "balloon-squad-2-3"
+  },
+  {
+   "name": "Golem Witch Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Dark Elixir",
+   "cost": 920000,
+   "days": 29,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "golem-witch-squad-2-3"
+  },
+  {
+   "name": "Hog Rider Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Dark Elixir",
+   "cost": 895000,
+   "days": 27.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "hog-rider-squad-2-3"
+  },
+  {
+   "name": "Miner Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 51500000,
+   "days": 23.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "miner-squad-2-3"
+  },
+  {
+   "name": "Healer Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 61000000,
+   "days": 29.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "healer-squad-2-3"
+  },
+  {
+   "name": "P.E.K.K.A Titan Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 60000000,
+   "days": 28.5,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "pekka-titan-squad-2-3"
+  },
+  {
+   "name": "Dragons Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 61500000,
+   "days": 30,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "dragons-squad-2-3"
+  },
+  {
+   "name": "Baby Dragon Squad",
+   "level": "2-3",
+   "copies": 1,
+   "resource": "Elixir",
+   "cost": 59500000,
+   "days": 28,
+   "boost": "Research",
+   "category": "Troop",
+   "note": "Squad levels 2 and 3 combined (TH19, Laboratory). Total from ClashClock's game-file data; the split between the two levels isn't published yet",
+   "id": "baby-dragon-squad-2-3"
   },
   {
    "name": "Gold Mine",
